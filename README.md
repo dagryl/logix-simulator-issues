@@ -27,7 +27,3 @@ Please make your issue titles descriptive and straightforward. Here are some exa
 ## Contact
 
 For more information or queries, feel free to reach out on [Discord](https://discord.gg/puVcdjEp4G)
-
----
-
-Feel free to customize this template to better suit the needs of your project.
